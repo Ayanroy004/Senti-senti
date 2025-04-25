@@ -11,7 +11,7 @@ function Header() {
           <div className="wrapper">
             <Navbar.Brand href="#home">Senti Senti</Navbar.Brand>
             <Nav className="me-auto d-flex gap-4 align-items-center menu">
-              <Nav.Link href="#home" className="active">Analysis</Nav.Link>
+              <Nav.Link href="#analysis" className="active">Analysis</Nav.Link>
               <Nav.Link href="#features">Team Members</Nav.Link>
             </Nav>
           </div>
