@@ -1,0 +1,6 @@
+.output-area-wrapper{margin-top: 20px;}
+.output-area-wrapper .output-area-header{background-color: #118b5a4d;border-radius: 12px;padding: 20px;min-height: 300px;}
+.output-area-wrapper .output-area-header .output-area-body .list-group .list-group-item{background-color: transparent;color: #FFFFFF;border: none;}
+.output-area-wrapper .output-area-header .output-area-body .list-group .list-group-item .show{display: flex;width: 30%;justify-content: space-between;text-align: start;}
+
+.output-area-wrapper .output-area-header .output-area-body .list-group .list-group-item .show .color-div{width: 12px;height: 12px;background-color: red;border-radius: 50%;}

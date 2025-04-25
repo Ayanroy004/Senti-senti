@@ -1,0 +1,6 @@
+.header{background-color: rgb(59, 59, 59);color: #FFFFFF;}
+.header .wrapper{display: flex;gap: 10px;}
+.header a{color: #FFFFFF;}
+.header .wrapper .menu a:hover{text-decoration: underline;color: #DF7334;}
+.navbar-brand:hover{color:#FFFFFF}
+.navbar-nav .nav-link.active{color: #DF7334;font-weight: 500;text-decoration: underline;}
